@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20200131_HSH_ImageProcessing", "20200131_HSH_ImageProcessing\20200131_HSH_ImageProcessing.vcxproj", "{30725803-6B9E-4C72-8EBB-9AA46FEDB116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30725803-6B9E-4C72-8EBB-9AA46FEDB116}.Debug|Win32.ActiveCfg = Debug|Win32
+		{30725803-6B9E-4C72-8EBB-9AA46FEDB116}.Debug|Win32.Build.0 = Debug|Win32
+		{30725803-6B9E-4C72-8EBB-9AA46FEDB116}.Release|Win32.ActiveCfg = Release|Win32
+		{30725803-6B9E-4C72-8EBB-9AA46FEDB116}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

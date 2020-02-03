@@ -1,0 +1,20 @@
+﻿빌드 시작: 2020-01-31 오후 3:19:28
+     1>2 노드의 "c:\Users\101\documents\visual studio 2010\Projects\20200131_HSH_Helloworld\20200131_HSH_Helloworld\20200131_HSH_Helloworld.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\20200131_HSH_Helloworld.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         모든 출력이 최신 상태입니다.
+       Manifest:
+         모든 출력이 최신 상태입니다.
+       FinalizeBuildStatus:
+         "Debug\20200131_HSH_Helloworld.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\20200131_HSH_Helloworld.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"c:\Users\101\documents\visual studio 2010\Projects\20200131_HSH_Helloworld\20200131_HSH_Helloworld\20200131_HSH_Helloworld.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.17
